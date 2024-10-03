@@ -6,7 +6,7 @@ specifiers:
   '@types/lodash': ^4.14.191
   '@types/micromatch': ^4.0.2
   '@types/node': ^18.13.0
-  '@types/vscode': 1.63.1
+  '@types/vscode': 1.94.0
   conventional-changelog-cli: ^2.2.2
   jest: ^29.4.2
   lodash: ^4.17.21
@@ -24,7 +24,7 @@ devDependencies:
   '@types/lodash': 4.14.191
   '@types/micromatch': 4.0.2
   '@types/node': 18.13.0
-  '@types/vscode': 1.63.1
+  '@types/vscode': 1.94.0
   conventional-changelog-cli: 2.2.2
   jest: 29.4.2_ucpl6toqp57nqodtp3vxxi6g5a
   lodash: 4.17.21
@@ -1056,8 +1056,8 @@ packages:
     resolution: {integrity: sha512-5eQEtSCoESnh2FsiLTxE121IiE60hnMqcb435fShf4bpLRjEu1Eoekht23y6zXS9Ts3l+Szu3TARnTsA0GkOkQ==}
     dev: true
 
-  /@types/vscode/1.63.1:
-    resolution: {integrity: sha512-Z+ZqjRcnGfHP86dvx/BtSwWyZPKQ/LBdmAVImY82TphyjOw2KgTKcp7Nx92oNwCTsHzlshwexAG/WiY2JuUm3g==}
+  /@types/vscode/1.94.0:
+    resolution: {integrity: sha512-UyQOIUT0pb14XSqJskYnRwD2aG0QrPVefIfrW1djR+/J4KeFQ0i1+hjZoaAmeNf3Z2jleK+R2hv+EboG/m8ruw==}
     dev: true
 
   /@types/yargs-parser/21.0.0:
